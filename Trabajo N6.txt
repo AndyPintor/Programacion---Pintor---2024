@@ -1,0 +1,3 @@
+Determinar e imprimir en pantalla el índice de la segunda aparición de la palabra "código" en el texto:
+
+"Escribir mal código es fácil. Escribir buen código es dificil. Escribir buen código y entenderlo seis meses después es un milagro"

@@ -1,0 +1,11 @@
+Usar la funcion zip() para crear una nueva lista que combine la siguiente listas:
+
+pais=["Argentina", "BRasil", "Francia", "Alemania", "Italia", "España", "Inglaterra", "Uruguay"]
+
+jugadores = ["Lionel Messi", "Neymar Jr.", "Kylian Mbappe", "Thomas Muller", "Mateo Retegui", "Alvaro Morata", "Harry Kane", "Luis Suarez"]
+
+capitales=["Buenos Aires", "Brasilia", "Paris", "Berlin", "Roma", "Madrid", "Londres", "Montevideo"]
+
+Imprimir el contenido de cada tupla resultante en la plantalla con el siguiente formato
+
+El capitan de PAIS es JUGADOR y el equipo ejerce la localia en CAPITAL

@@ -1,0 +1,7 @@
+Determinar cual es la menor edad en el sigioente diccionario:
+
+participantes = {"Reneta":23, "Julián":52, "Leonardo":36, "Viviana":15, "Sebastián":19, "Mabel":74, "Miguel":42, "Ernesto":28}
+
+Determinar tambien cual es el ultimo nombre por oden alfabetico. imprimir ambos datos en pantalla con el siguiente formato:
+
+"La edad de los participantes es de X años en adelante. El ultimo participante en subir al escenario sera Y."

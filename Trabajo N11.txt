@@ -1,0 +1,1 @@
+Utilizar la funcion "range()" y un bucle para sumar los cuadrados (potencia de 2) de todos los números del 1 al 15 inclusive, asignado el resultado a la variable suma_cuadrados.

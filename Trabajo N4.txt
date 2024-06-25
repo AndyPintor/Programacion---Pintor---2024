@@ -1,0 +1,3 @@
+Generar un número secreto al azar del 1 al 100, Informar al usuario que tiene que adivinar, y tiene 6 oporunidades, si el
+núm ingresado por el usuario es menos a 1 o mayor a 100, se le informara que el num elegido no esta permitido.
+Si el num ingresado por el usuario, es menor se le informa que es incorrecto y debe intentar con un numero mayor, si el numero ingresado es mayor debe informar que intente con un numero menor, si el usuario acierta con el num, se le informa que gana y se le indicara cuadno intentos le tomo.

@@ -1,0 +1,27 @@
+Imprimir solamente los indices de aquellos nombres de la siguiente lista que empiezan con la letra J:
+lista_socios = ["Julio", "Renata", "Julieta", "Sebastián", "Bruno", "Jésica", "Dario", "Emiliano", "Julián"]
+
+enumerate(iterable, 0)
+
+print(list(enumerate("Hola")))
+
+l1 = ["eat", "sleep", "repeat"]
+
+for ele in enumerate(l1):
+    print(ele)
+
+for count, ele in enumerate(l1, 100):
+    print(count, ele)
+
+for count, ele in enumerate(l1):
+    print(count)
+    print(ele)
+
+lista_socios = ["Julio", "Renata", "Julieta", "Sebastián", "Bruno", "Jésica", "Dario", "Emiliano", "Julián"]
+print(lista_socios)
+
+for i, lista_socios in enumerate(lista_socios):
+    if lista_socios == 'Jésica':
+        print(f"'Jésica' esta en la poscion {i}")
+
+'Jésica' esta en la posicion 5

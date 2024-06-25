@@ -1,0 +1,1 @@
+Generar e imprimir una lista cuyos elementos formen una sucesión Fibonacci a parir de los números enteros del 0 al 100 inclusive.

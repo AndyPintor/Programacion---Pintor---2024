@@ -1,0 +1,4 @@
+Hacer una cuenta regresiva del 100 al 0 con las siguientes condiciones:
+
+Si el numero es divisible por 5, imprimirlo en pantalla
+si el numero no es divisible por 5, continuar la cuenta regresica sin imprimirlo en pantalla 

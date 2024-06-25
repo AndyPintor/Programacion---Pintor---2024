@@ -1,0 +1,6 @@
+Seleccionar tres elementos al azar de la sigueinte lista e imprimirlos en pantalla:
+
+colores=["Rojo", "Verde", "Azul", "Amarillo", "Naranja", "Violeta", "Rosa", "Marron", "Negro", "Blanco", "Gris","Violeta" "Celeste"]
+
+
+Envitar que el color violeta pueda ser seleccionado mas de una vez

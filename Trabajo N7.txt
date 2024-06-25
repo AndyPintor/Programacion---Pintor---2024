@@ -1,0 +1,8 @@
+Dado el siguiente diccionario, imprimir el segundo elemento de la lista v2 y luego el tercer elemento de la lista imperial:
+
+imperial.datos={"release":{"v1":3,"v2":[1.5,2.0,2.4]}, "precision":{"metrico":62, "imperial":[32, 27, 25]}
+
+
+mi_diccionario = {"curso":"Python TOTAL","clase":"Diccionarios"}
+mi_diccionario["recursos"] = ["notas","ejercicios","Hola"]
+print(mi_diccionario["recursos"][0])

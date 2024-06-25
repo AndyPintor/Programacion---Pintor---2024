@@ -1,0 +1,12 @@
+Organizar la siguiente información definiendo un siccionario llamado datos_personales que contenga las siguientes claves/valores:
+
+Nombre:Florencia
+Apellido: Gomez
+DNI: 35632135
+Domicilio: Panama 850
+Ciudad: Bahia Blanca
+
+Imprimir el contenido del diccionario en pantalla. Luego agregar una nueva clase llmada "Pais" con el valor "Italia" y actualizar los valores de la sigueintes clasves
+
+Domicilio: Via Apia 2432
+Ciudad: Napoles
